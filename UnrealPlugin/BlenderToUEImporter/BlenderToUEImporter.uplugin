@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Blender To UE Importer",
+	"Description": "Imports meshes from a running Blender Live Bridge session into /Game/ImportedModels.",
+	"Category": "Import",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BlenderToUEImporter",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
